@@ -18,7 +18,7 @@
 #     REVISION:  ---
 #===============================================================================
 
-!usr/bin/perl
+#!usr/bin/perl
 use Statistics::Regression;
 use strict;
 use warnings;
